@@ -1,0 +1,29 @@
+Whiskey app that lets you look up whiskeys
+see where they are distilled and scan barcodes to find whiskey.
+Lets you add favorites and log a review of the whiskey.
+
+MAIN MENU:
+	Add whiskey:
+		List of whiskeys:
+			Details option:
+				Shows info about whiskey
+				including where distillery is on map
+			Compare two whiskeys
+		Select a whiskey from list:
+			Add rating 0-10
+			Add note
+			Optional: add to favorite
+		Find whiskey from barcode:
+			Open barcode activity:
+			scan barcode
+			Add ratin 0-10
+			Add note
+			Optional: add to favorite
+	Show favorites:
+		Shows whiskeys added to favorites
+		Details option
+		Rating
+		Note
+
+		
+

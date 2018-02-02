@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MaltMate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="add">Add Whiskey to favorites</string>
+    <integer name="depreciation">80</integer>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="google_api_key">AIzaSyA5TNywup_wwHPVVYOxe5PJa-vUx45g3uA</string>
+    <string-array name="search_type">
+        <item>name</item>
+        <item>whiskey_type</item>
+        <item>whiskey_class</item>
+        <item>origin</item>
+        <item>distillery</item>
+    </string-array>
+    <string-array name="search_type_displayable">
+        <item>Name</item>
+        <item>Type</item>
+        <item>Class</item>
+        <item>Origin</item>
+        <item>Distillery</item>
+    </string-array>
+
+</resources>
